@@ -1,7 +1,7 @@
 # InputTags
 React Controlled , Uncontrolled Components, Max Input Tag
 
-[Click Here](https://messengerapp26.netlify.app/) to check the demo. 
+[Click Here](https://input-tags.netlify.app/) to check the demo. 
 
 ### How to use?
 
